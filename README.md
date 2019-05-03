@@ -24,7 +24,7 @@
 >如果没有cd，使用绝对路径即可，也可以不使用图标文件直接打包  
 
 ## 依赖的第三方库
-[requests](https://github.com/pyinstaller/pyinstaller)  
+[requests](https://github.com/kennethreitz/requests)  
 [pywifi](https://github.com/awkman/pywifi)  
 [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)  
 [prettytable](https://pypi.org/project/PrettyTable/)  
