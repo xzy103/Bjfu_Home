@@ -16,4 +16,4 @@
 运行打包文件下的BjfuWifi.exe即可  
 将BjfuWifi.exe发送快捷方式到桌面，再将快捷方式放到电脑启动目录下即可实现开机自启  
 启动目录路径在此👇  
-C:\Users\<你的账户名字>\AppData\Roaming\Microsoft\Windows\开始菜单\程序\启动  
+C:\Users\\<你的账户名字>\AppData\Roaming\Microsoft\Windows\开始菜单\程序\启动  

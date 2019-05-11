@@ -28,7 +28,9 @@
 [pywifi](https://github.com/awkman/pywifi)  
 [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)  
 [prettytable](https://pypi.org/project/PrettyTable/)  
-[pywin32](https://pypi.org/project/pywin32/)
+[pywin32](https://pypi.org/project/pywin32/)  
+[retry](https://github.com/invl/retry)  
+[comtypes](https://pypi.org/project/comtypes/)  
 
 ## 关于作者
 BJFU非计算机专业的一只野生猿，欢迎与我交流Python。(๑¯∀¯๑)  
