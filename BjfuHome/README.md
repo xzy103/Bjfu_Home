@@ -19,9 +19,9 @@
 C:\Users\\<你的账户名字>\AppData\Roaming\Microsoft\Windows\开始菜单\程序\启动  
 
 
-### BjfuScore图形界面版
-`BjfuScore图形界面版.zip`是打包好的教务系统成绩查询小助手，包含源码和打包文件  
-将BjfuScore.exe放到电脑启动目录下可实现开机自启  
+### BjfuScorePlus
+`BjfuScorePlus.zip`是打包好的教务系统成绩查询小助手，包含图标文件、python源码和打包的可执行文件  
+将BjfuScoreGUI.exe放到电脑启动目录下可实现开机自启  
 启动目录路径在此👇  
 C:\Users\\<你的账户名字>\AppData\Roaming\Microsoft\Windows\开始菜单\程序\启动  
 放到启动目录杀毒软件可能会报错，请选择信任  
