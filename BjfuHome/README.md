@@ -24,3 +24,4 @@ C:\Users\\<你的账户名字>\AppData\Roaming\Microsoft\Windows\开始菜单\�
 将BjfuScore.exe放到电脑启动目录下可实现开机自启  
 启动目录路径在此👇  
 C:\Users\\<你的账户名字>\AppData\Roaming\Microsoft\Windows\开始菜单\程序\启动  
+放到启动目录杀毒软件可能会报错，请选择信任  
